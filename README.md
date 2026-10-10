@@ -10,7 +10,7 @@ Use this program if you want to try your luck with a coin flip!
 <img width="1143" height="1022" alt="Screenshot 2026-10-05 at 1 18 25 AM" src="https://github.com/user-attachments/assets/78a7fdf3-5612-4f78-a924-e9a8aedab197" />
 
 # ✨ Features
-* Responsive design for desktop and mobile.         
+* Responsive design for desktop and mobile        
 
 # 🔨 Built With
 * HTML5 – structure    
